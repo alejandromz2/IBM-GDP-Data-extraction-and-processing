@@ -32,6 +32,7 @@ Modify the GDP column of the DataFrame, converting the value available in Millio
 Load the DataFrame to the CSV file named "Largest_economies.csv"
 ### Result:
 The file is save in my local storage
+
 ![image](https://github.com/alejandromz2/IBM-GDP-Data-extraction-and-processing/assets/30611516/3f169e01-a6a1-4761-9f9f-acc0ecddc81d)
 
 
