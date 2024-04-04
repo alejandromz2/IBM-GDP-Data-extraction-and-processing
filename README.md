@@ -13,4 +13,11 @@ Extract the required GDP data from the given URL using Web Scraping. You can use
 
 <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/images/pandas_wbs_3.png">
 
+### Result Table:
 
+![image](https://github.com/alejandromz2/IBM-GDP-Data-extraction-and-processing/assets/30611516/86aba9d1-2949-4836-831d-219786dd1250)
+
+
+### Exercise 2
+
+Modify the GDP column of the DataFrame, converting the value available in Million USD to Billion USD. Use the round() method of Numpy library to round the value to 2 decimal places. Modify the header of the DataFrame to GDP (Billion USD).
