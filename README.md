@@ -1,5 +1,5 @@
 # IBM-GDP-Data-extraction-and-processing
-This is a practice projecto, it consist in extract data froma a website using webscraping and reques APIs process it using Pandas and Numpy libraries
+This is a practice project from IBM Python for Data Science, AI & Development course, it consist in extract data froma a website using webscraping and reques APIs process it using Pandas and Numpy libraries
 
 ### Project Scenario:
 An international firm that is looking to expand its business in different countries across the word has recruited you. You have been hired as a junior Data Engineer and are tasked with creting a script that can extract the list of the top 10 largest economies of the world in descending order of their GDPs in Billion USD (rounded to 2 decimal places), as logged by the International Monetary Fund (IMF).
