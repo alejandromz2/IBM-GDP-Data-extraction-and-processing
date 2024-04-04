@@ -21,3 +21,17 @@ Extract the required GDP data from the given URL using Web Scraping. You can use
 ### Exercise 2
 
 Modify the GDP column of the DataFrame, converting the value available in Million USD to Billion USD. Use the round() method of Numpy library to round the value to 2 decimal places. Modify the header of the DataFrame to GDP (Billion USD).
+
+### Result Table:
+
+![image](https://github.com/alejandromz2/IBM-GDP-Data-extraction-and-processing/assets/30611516/538ef0d0-552c-4117-abd9-fb7ea92e30bd)
+
+
+### Exercise 3
+
+Load the DataFrame to the CSV file named "Largest_economies.csv"
+### Result:
+The file is save in my local storage
+![image](https://github.com/alejandromz2/IBM-GDP-Data-extraction-and-processing/assets/30611516/3f169e01-a6a1-4761-9f9f-acc0ecddc81d)
+
+
